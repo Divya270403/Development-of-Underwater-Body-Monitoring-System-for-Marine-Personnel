@@ -1,0 +1,1 @@
+It is a IoT-Based project "Development of Underwater Body Monitoring System for Marine Personnel" project aims to enhance the safety and well-being of marine personnel by leveraging cutting-edge Internet of Things (IoT) technology for real-time monitoring and data acquisition in underwater environments.
